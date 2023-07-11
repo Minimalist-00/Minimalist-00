@@ -1,6 +1,22 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://git-hub-readme-stats-clone-zadn.vercel.app/api?username=Minimalist-00&theme=dracula&show_icons=true&count_private=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://git-hub-readme-stats-clone-zadn.vercel.app/api/top-langs/?username=Minimalist-00&layout=compact&theme=dracula&count_private=true" />
-</a>
+## 使用技術
+#### フロントエンド
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs)](https://skillicons.dev)
+
+#### バックエンド
+[![My Skills](https://skillicons.dev/icons?i=go,docker,postgres,postman)](https://skillicons.dev)
+
+#### デザイン, UI
+[![My Skills](https://skillicons.dev/icons?i=tailwind,materialui,figma)](https://skillicons.dev)
+
+#### その他
+[![My Skills](https://skillicons.dev/icons?i=twitter,vscode,github)](https://skillicons.dev)
+
+#### 触れたことのある技術
+[![My Skills](https://skillicons.dev/icons?i=arduino,firebase,matlab,py,ruby)](https://skillicons.dev)
+
+## 興味のある技術
+[![My Skills](https://skillicons.dev/icons?i=astro,nestjs,prisma)](https://skillicons.dev)  
+
+[![My Skills](https://skillicons.dev/icons?i=ruby,rails,php,laravel)](https://skillicons.dev)  
+
+[![My Skills](https://skillicons.dev/icons?i=supabase,mongodb,mysql)](https://skillicons.dev)
