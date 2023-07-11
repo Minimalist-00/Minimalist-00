@@ -1,6 +1,6 @@
 ## 使用技術
 #### フロントエンド
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs)](https://skillicons.dev)
 
 #### バックエンド
 [![My Skills](https://skillicons.dev/icons?i=go,docker,postgres,postman)](https://skillicons.dev)
