@@ -6,7 +6,7 @@
 [![My Skills](https://skillicons.dev/icons?i=go,docker,postgres,postman)](https://skillicons.dev)
 
 #### デザイン, UI
-[![My Skills](https://skillicons.dev/icons?i=tailwind,materialui,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=scss,tailwind,materialui,figma)](https://skillicons.dev)
 
 #### その他
 [![My Skills](https://skillicons.dev/icons?i=twitter,vscode,github)](https://skillicons.dev)
