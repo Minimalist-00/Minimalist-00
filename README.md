@@ -3,7 +3,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs)](https://skillicons.dev)
 
 #### バックエンド
-[![My Skills](https://skillicons.dev/icons?i=go,docker,postgres,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,docker,)](https://skillicons.dev)
 
 #### デザイン, UI
 [![My Skills](https://skillicons.dev/icons?i=scss,tailwind,materialui,figma)](https://skillicons.dev)
@@ -12,7 +12,12 @@
 [![My Skills](https://skillicons.dev/icons?i=twitter,vscode,github)](https://skillicons.dev)
 
 #### 触れたことのある技術
-[![My Skills](https://skillicons.dev/icons?i=arduino,firebase,matlab,py,ruby)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=py,ruby)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=firebase,postgres,postman)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=arduino,matlab)](https://skillicons.dev)
 
 ## 興味のある技術
 [![My Skills](https://skillicons.dev/icons?i=astro,nestjs,prisma)](https://skillicons.dev)  
