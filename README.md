@@ -12,17 +12,10 @@
 [![My Skills](https://skillicons.dev/icons?i=twitter,vscode,github)](https://skillicons.dev)
 
 #### 触れたことのある技術
-
-[![My Skills](https://skillicons.dev/icons?i=py,ruby)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=firebase,postgres,postman)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=arduino,matlab)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ruby,arduino,firebase,postgres,postman)](https://skillicons.dev)
 
 ## 興味のある技術
-[![My Skills](https://skillicons.dev/icons?i=astro,nestjs,prisma)](https://skillicons.dev)  
-
-[![My Skills](https://skillicons.dev/icons?i=ruby,rails,php,laravel)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=astro,nestjs,prisma,rails)](https://skillicons.dev)  
 
 [![My Skills](https://skillicons.dev/icons?i=supabase,mongodb,mysql)](https://skillicons.dev)
 
