@@ -9,7 +9,7 @@
 [![My Skills](https://skillicons.dev/icons?i=scss,tailwind,materialui,figma)](https://skillicons.dev)
 
 #### その他
-[![My Skills](https://skillicons.dev/icons?i=twitter,vscode,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,github)](https://skillicons.dev)
 
 #### 触れたことのある技術
 [![My Skills](https://skillicons.dev/icons?i=ruby,arduino,firebase,postgres,postman)](https://skillicons.dev)
