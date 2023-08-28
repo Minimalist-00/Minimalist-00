@@ -1,6 +1,7 @@
 ## 使用技術
 #### フロントエンド
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs)](https://skillicons.dev)  
+
 [![My Skills](https://skillicons.dev/icons?i=scss,tailwind,materialui)](https://skillicons.dev)
 
 #### バックエンド
