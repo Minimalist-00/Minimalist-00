@@ -2,7 +2,7 @@
 #### フロントエンド
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs)](https://skillicons.dev)  
 
-[![My Skills](https://skillicons.dev/icons?i=scss,tailwind,materialui)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,scss,tailwind,materialui)](https://skillicons.dev)
 
 #### バックエンド
 [![My Skills](https://skillicons.dev/icons?i=go,docker,)](https://skillicons.dev)
