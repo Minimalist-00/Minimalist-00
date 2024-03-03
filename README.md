@@ -15,9 +15,3 @@
 
 #### 触れたことのある技術
 [![My Skills](https://skillicons.dev/icons?i=ruby,arduino,firebase,postgres,postman)](https://skillicons.dev)
-
-## 興味のある技術
-[![My Skills](https://skillicons.dev/icons?i=astro,flutter,nestjs,prisma,firebase)](https://skillicons.dev)
-
-## これまでに制作したもの
-coming soon...
